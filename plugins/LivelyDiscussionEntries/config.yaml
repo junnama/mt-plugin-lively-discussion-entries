@@ -1,0 +1,11 @@
+id:   LivelyDiscussionEntries
+key:  livelydiscussionentries
+name: Lively Discussion Entries
+description: 'Sorted to display the entry in the comments of the last n days.'
+author_name: Junnama Noda
+author_link: http://junnama.alfasado.net/online/
+version: 0.1
+tags:
+    block:
+        LivelyDiscussionEntries: $livelydiscussionentries::LivelyDiscussionEntries::Tags::_hdlr_lively_discussion_entries
+
